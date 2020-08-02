@@ -1,1 +1,1 @@
-# Master-Developer-Branch-Testing
+Practices for setup and configuration.
